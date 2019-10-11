@@ -1,0 +1,1 @@
+Counts prime numbers in entered range.
